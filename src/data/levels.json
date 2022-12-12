@@ -1,0 +1,36 @@
+[[
+    {
+        "title": "2 hours",
+        "description": "Get your dedicated web developer for 2 hours a day"
+      },
+    {
+        "title": "4 hours",
+        "description": "Get your dedicated web developer for 4 hours a day"
+      },
+    {
+        "title": "6 hours",
+        "description": "Get your dedicated web developer for 6 hours a day"
+      },
+    {
+        "title": "8 hours",
+        "description": "Get your dedicated web developer for 8 hours a day"
+      }
+  ],
+  [
+    {
+        "title": "2 hours",
+        "description": "Get your dedicated specialist team for 2 hours a day"
+      },
+    {
+        "title": "4 hours",
+        "description": "Get your dedicated specialist team for 4 hours a day"
+      },
+    {
+        "title": "4-8 hours",
+        "description": "Get your dedicated specialist team for 4-8 hours a day depending on your dedicated team size."
+      },
+    {
+        "title": "Customize your plan",
+        "description": "Completely customize your team of specialists required for your website."
+      }
+  ]]
